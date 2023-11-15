@@ -20,6 +20,7 @@ I'm currently working as Lead UI Engineer for a San Francisco company, it's a lo
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="dotnet" src="https://img.shields.io/badge/-.NET-123?style=flat-square&logo=.net&logoColor=white" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%23-123?style=flat-square&logo=csharp&color=%23512BD4">
   <img alt="nextjs" src="https://img.shields.io/badge/NextJS-123?style=flat-square&logo=next.js&logoColor=white&labelColor=grey&color=grey"/>
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-123?style=flat-square&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23F7DF1E"/>
 <img alt="sqlserver" src="https://img.shields.io/badge/MS%20SQL%20Server-123?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=%23CC2927&color=%23CC2927"/>
