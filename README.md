@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matias9477
-- 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning NextJS and GraphQL
+- 👀 Currently working as Lead UI Engineer for a San Francisco company. I did not want this but now I'm in this position and although it's a lot of work I'm learning a lot about real deployments, working with customers and managing a team.
+- ⚛️ Trying to master React, TypeScript and GraphQL
 
 
 <!---
