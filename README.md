@@ -1,5 +1,6 @@
 <h1>Hallo! Nice to meet you</h1>
-
+<h2>Currently Working at <img alt="Static Badge" src="https://img.shields.io/badge/Symmetry%20Systems%20-123?style=flat-square&logo=acclaim&labelColor=%2326689A&color=%2326689A">
+</h2>
 
 <p>Welcome to my page<br/> I'm Matias, Frontend Engineer from <img src="https://cdn-icons-png.flaticon.com/256/4628/4628694.png" width="13"/> <b>La Rioja, Argentina</b> currently living in <img src="https://cdn-icons-png.flaticon.com/256/4628/4628694.png" width="13"/> <b>Córdoba, Argentina</b><br/>
 I'm currently working as Lead UI Engineer for a San Francisco company, it's a lot of work and I wasn't looking for a role like this but I'm here now and I'm trying to learn as much as I can about real deployments, working with customers and managing a team.
@@ -32,6 +33,8 @@ I'm currently working as Lead UI Engineer for a San Francisco company, it's a lo
 <img alt="Static Badge" src="https://img.shields.io/badge/Linux-123?style=flat-square&logo=linux&logoColor=black&labelColor=%23FCC624&color=%23FCC624">
 <img alt="Static Badge" src="https://img.shields.io/badge/ChatGPT-123?style=flat-square&logo=openai&logoColor=white&labelColor=%23412991&color=%23412991">
 </p>
+
+
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/matias9477" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/matiast__" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/matias-turra/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@matias.turra" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
