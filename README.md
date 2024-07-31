@@ -3,7 +3,7 @@
 </h2>
 
 <p>Welcome to my page<br/> I'm Matias, Frontend Engineer from <img src="https://cdn-icons-png.flaticon.com/256/4628/4628694.png" width="13"/> <b>La Rioja, Argentina</b> currently living in <img src="https://cdn-icons-png.flaticon.com/256/4628/4628694.png" width="13"/> <b>Córdoba, Argentina</b><br/>
-I'm currently working as Lead UI Engineer for a Sillicon Valley company, it's a lot of work but I'm here now and I'm trying to learn as much as I can about real deployments, working with customers and managing a team.
+I'm currently working as Lead UI Engineer for a Sillicon Valley company, I'm trying to learn as much as I can about real deployments, working with customers and managing a team.
 </p>
 
 <h3>Things I code with</h3>
