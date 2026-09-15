@@ -1,10 +1,9 @@
 <h1>Hallo! Nice to meet you</h1>
-<h2>Currently Working at <img alt="Static Badge" src="https://img.shields.io/badge/Symmetry%20Systems%20-123?style=flat-square&logo=acclaim&labelColor=%2326689A&color=%2326689A">
+<h2>Currently Working at <img alt="Static Badge" src="https://img.shields.io/badge/ZScaler-blue?logo=icloud&logoColor=white">
 </h2>
 
-<p>Welcome to my page<br/> I'm Matias, Frontend Engineer currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Málaga, Spain</b><br/>
-I'm currently working as Lead UI Engineer for a US company, I'm trying to learn as much as I can about real deployments, working with customers and managing a team.
-    I really like to code cool stuff and learn new stuff about tech.
+<p>Welcome to my page<br/> I'm Matias, Staff Frontend Engineer currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Málaga, Spain</b><br/>
+I was previosly working as the Lead UI engineer at Symmetry Systems until we got acquired by ZScaler. Now I work as a staff engineer in the agentic AI division while I try to keep learning about engineering in general and AI.
 </p>
 
 <h3>Things I code with</h3>
